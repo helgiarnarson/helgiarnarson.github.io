@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automated Humanoid</title>
-    <link>https://helgiarnarson.github.io/</link>
-    <description>Recent content on Automated Humanoid</description>
+    <title>Hugo on Automated Humanoid</title>
+    <link>https://helgiarnarson.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Automated Humanoid</description>
     <image>
       <title>Automated Humanoid</title>
       <url>https://helgiarnarson.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Aug 2023 21:25:07 +0000</lastBuildDate><atom:link href="https://helgiarnarson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 21:25:07 +0000</lastBuildDate><atom:link href="https://helgiarnarson.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to add custom syntax highlighting in Hugo</title>
       <link>https://helgiarnarson.github.io/posts/hugosyntaxhighlighting/</link>
